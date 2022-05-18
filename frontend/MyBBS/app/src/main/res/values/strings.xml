@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">My BBS</string>
+    <string name="title_login">用户登录</string>
+    <string name="title_register">用户注册</string>
     <string name="title_home">Home</string>
     <string name="title_release">Release</string>
     <string name="title_moments">Moments</string>
