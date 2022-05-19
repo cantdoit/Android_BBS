@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">My BBS</string>
-    <string name="title_home">Home</string>
-    <string name="title_release">Release</string>
-    <string name="title_moments">Moments</string>
-    <string name="title_notifications">Notifications</string>
-</resources>
